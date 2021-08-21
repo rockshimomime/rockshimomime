@@ -12,13 +12,16 @@
 ##
 
 <div>
-    <h3>Languages and Tools</h3>
-    <img align="center" alt="Python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img align="center" alt="Django" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg">
-    <img align="center" alt="Flask" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg">
-    <img align="center" alt="Docker" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-    <img align="center" alt="Kubernetes" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg">
-    <img align="center" alt="AWS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" target="_self">
+    <h3>Languages and Tools<a></h3>
+    <a href="#"><img align="center" alt="Python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></a>
+    <a href="#"><img align="center" alt="Django" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg"></a>
+    <a href="#"><img align="center" alt="Flask" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg"></a>
+    <a href="#"><img align="center" alt="Docker" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"></a>
+    <a href="#"><img align="center" alt="Kubernetes" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg"></a>
+    <a href="#"><img align="center" alt="AWS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" target="_self"></a>
+    <a href="#"><img align="center" alt="Azure" height="50" width="50" src="https://raw.githubusercontent.com/bwks/vendor-icons-svg/master/azure.svg" target="_self"></a>
+    <a href="#"><img align="center" alt="Ansible" height="50" width="50" src="https://raw.githubusercontent.com/bwks/vendor-icons-svg/master/ansible.svg" target="_self"></a>
+    <a href="#"><img align="center" alt="Terraform" height="50" width="50" src="https://raw.githubusercontent.com/bwks/vendor-icons-svg/master/terraform.svg" target="_self"></a>
 </div>
 
 <!--
