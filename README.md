@@ -1,4 +1,4 @@
-### Hello, Friend 🐱‍💻
+### Hello, Friend 🐍
 
 <p align="center">
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=rockshimomime&show_icons=true&include_all_commits=true&count_private=true&theme=material-palenight&hide_border=true&hide=issues,contribs&bg_color=00000000"></a>
