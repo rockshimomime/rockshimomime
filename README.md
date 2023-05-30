@@ -14,7 +14,7 @@
 <div>
     <h3>Languages and Tools<a></h3>
     <a href="#"><img align="center" alt="Python" title="Python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></a>
-    <a href="#"><img align="center" alt="Rust" title="Python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/rust/rust-plain.svg"></a>
+    <a href="#"><img align="center" alt="Rust" title="Rust" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/rust/rust-plain.svg"></a>
     <a href="#"><img align="center" alt="Python" title="Linux" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linux/linux-original.svg"></a>
     <a href="#"><img align="center" alt="Kubernetes" title="Kubernetes" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg"></a>
     <a href="#"><img align="center" alt="AWS" title="Amazon Web Services" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" target="_self"></a>
